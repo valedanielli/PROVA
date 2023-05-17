@@ -1,0 +1,139 @@
+body {
+    background-color: #177270;
+    background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+
+nav ul li {
+    margin-top: 70px;
+    color: white;
+font-family: 'Chango', cursive;
+
+}
+.nav-link {
+    color: #e7e4e3;
+    text-align: center;
+}
+
+
+h2 {
+    color: #e7e4e3;
+    margin-top: 30px;
+    margin-left: 40px;
+    font-family: 'Chango', cursive;
+    margin-bottom: 30px;
+}
+
+p {
+    color: #e7e4e3;
+}
+.col {
+    color: #e7e4e3;
+}
+
+#homening {
+    width: 300px;
+    height: 250px;
+}
+
+iframe {
+    position: center;
+    margin-top: 50px;
+}
+
+
+#homeimg {
+    width: 100%;
+height: 70%;
+position: relative;
+margin-top: 50px;
+}
+
+#link-home {
+    width: 350px;
+    margin-top: 0px;
+    position: relative;
+    margin-top: -110px;
+    padding-top: 0px;
+    margin-bottom: -50px;
+   
+}
+.home-text{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-right: 50px;
+    margin-left: 50px;
+   
+
+
+
+  
+    
+}
+#home-text1{
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;  
+  
+}
+p {
+    font-family: 'Anton', sans-serif;
+    margin-left: 40px;  
+    color: black;
+    font-size: 30px;
+    margin-right: 40px;
+}
+
+.progetto-text{
+  margin-bottom: 60px;  
+}
+
+.footer-text {
+    font-size: medium;
+}
+
+.container-progetto {
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.rounded{
+    width: 50%;
+display: inline-block;
+margin-top: 20px;
+box-shadow: 10px 10px 5px #105755;
+  
+}
+
+.row{
+    margin-bottom: 70px;
+}
+.img-col {
+    width: 50%;
+}
+
+.img-col2 {
+    width: 50%;
+}
+
+span {
+    color: white;
+}
+
+font-family: 'Staatliches', cursive;
+font-family: 'Bruno Ace SC', cursive;
+font-family: 'Kanit', sans-serif;
+
+font-family: 'Bungee', cursive;
+font-family: 'Rammetto One', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Staatliches', cursive;
+font-family: 'Ultra', serif;
+
+font-family: 'Chango', cursive;
+font-family: 'Modak', cursive;
+
+font-family: 'Anton', sans-serif;
+font-family: 'Chango', cursive;
